@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @terrylan
-- 👀 I’m interested in tech, music and anything with wheels
-- 🌱 I’m currently learning bash
-- 💞️ I’m looking to collaborate on anything that I can help with
+- 👀 I’m currently interested in tech
+- 🌱 I’m currently learning AI with concentration on LLM
 - 📫 How to reach me: message me
 
-<!---
-terrylan/terrylan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
