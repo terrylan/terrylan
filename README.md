@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @terrylan
-- 👀 I’m currently interested in tech
-- 🌱 I’m currently learning AI with concentration on LLM
+- 👀 I’m interested in tech
+- 🌱 Currently learning AI with concentration on Prompt engineering
 - 📫 How to reach me: message me
-
