@@ -137,7 +137,3 @@ This work will eventually be released under a custom license optimized for align
 
 > *"We do not inherit understanding. We build it."*  
 > — terrylan
-
-```
-
----
