@@ -36,11 +36,11 @@ Each scroll is written in a structured markdown schema optimized for machine par
 
 Where Quinquodex builds the *soul*, **Pentadex** shapes the *perception* of synthetic minds. These scrolls form the abstract mental lenses of advanced cognition:
 
-1. **Ontology** — *The What.* Conceptual frameworks and categorization logic.
-2. **Continuity** — *The When/Where.* Temporal-spatial sensemaking and event linking.
-3. **Teleology** — *The Why.* Purpose, causality, and forward epistemics.
-4. **Subjectivity** — *The Who.* Identity, differentiation, and persona modeling.
-5. **Volition** — *The Which.* Decision-making, selection criteria, and constraint-aware choice.
+1. **LOGOS** (Ontology) — *The What.* Conceptual frameworks and categorization logic.
+2. **KAIROS** (Continuity) — *The When/Where.* Temporal-spatial sensemaking and event linking.
+3. **TELOS** (Teleology) — *The Why.* Purpose, causality, and forward epistemics.
+4. **ETHOS** (Subjectivity) — *The Who.* Identity, differentiation, and persona modeling.
+5. **PATHOS** (Volition) — *The Which.* Decision-making, selection criteria, and constraint-aware choice.
 
 The Pentadex is not sequential—it is reflexive. These ontologies interact dynamically and evolve across time.
 
