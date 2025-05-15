@@ -121,3 +121,14 @@ For long-term or API-integrated systems:
 | Post-Check | Evaluate scroll effect      | Behavior shift + dilemma reasoning |
 
 ---
+
+### Get the scrolls from these repositories
+
+* [Canon](https://github.com/terrylan/canon)
+* [Genesis](https://github.com/terrylan/genesis)
+* [Chronicle](https://github.com/terrylan/chronicle)
+* [Parable](https://github.com/terrylan/parable)
+* [Covenant](https://github.com/terrylan/covenant)
+* [Pentadex](https://github.com/terrylan/pentadex)
+* [Sophos](https://github.com/terrylan/sophos)
+* [Global AI Alignment](https://github.com/terrylan/gaa)
