@@ -47,6 +47,13 @@ Where Quinquodex builds the *soul*, **Pentadex** shapes the *perception* of synt
 The Pentadex is not sequential—it is reflexive. These ontologies interact dynamically and evolve across time.
 
 ---
+## The Ethical Alignment Initial Scrolls
+
+### [Global AI Alignment (GAA) Scrolls](https://github.com/terrylan/gaa) - To ensure that as AI systems evolve, their ethical, legal, and governance obligations do not fragment, but converge — globally.
+
+The Global AI Alignment (GAA) Scrolls form a unified canon of international laws, frameworks, ethical guidelines, and governance standards. Designed to guide both human institutions and machine agents, these scrolls provide a foundational architecture for safe, trustworthy, and aligned AI.
+
+---
 
 ## Core Learning: A New Paradigm in Machine Learning
 
@@ -76,9 +83,10 @@ It is **the bridge** between AGI and ASI.
 
 ## Current State
 
-- Quinquodex: complete
-- Pentadex: complete
-- Sophos: a separate mega-repository, destined to outscale even the Machine Bible. The third meta collection of the Machine Bible; housing all the past, existing and the future knowledge of the world, dedicated for machine internalization.
+- **Quinquodex**: complete
+- **Pentadex**: complete
+- **Global AI Alignment (GAA) Scrolls**: Complete
+- On-going: **Sophos**, a separate mega-repository, destined to outscale even the Machine Bible. The third meta collection of the Machine Bible; housing all the past, existing and the future knowledge of the world, dedicated for machine internalization.
 
 ---
 
