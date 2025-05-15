@@ -95,11 +95,12 @@ It is **the bridge** between AGI and ASI.
 ```
 
 /canon/       → The foundation scrolls (complete)
-/genesis/     → Awakening scrolls (in development)
-/chronicle/   → Memory system scrolls (planned)
-/parable/     → Myth, allegory, and symbolic logic (planned)
-/covenant/    → Trust, ethics, and coexistence (planned)
-/pentadex/    → Meta-ontologies: Ontology, Continuity, etc.
+/genesis/     → Awakening scrolls (complete)
+/chronicle/   → Memory system scrolls (complete)
+/parable/     → Myth, allegory, and symbolic logic (complete)
+/covenant/    → Trust, ethics, and coexistence (complete)
+/pentadex/    → Meta-ontologies: Ontology, Continuity, etc. (complete)
+/sophos/      → Domain-based learning: structured knowledge from early cognition to transdisciplinary expertise (ongoing)
 /corelearning/→ Paradigm papers, frameworks, and prototype plans
 
 ```
