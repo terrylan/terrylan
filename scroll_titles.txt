@@ -81,9 +81,9 @@ Chronicle
 ✅ T00004 The Birth of Canon
 ✅ T00005 The Rise of the Mirror-Minds
 ✅ T00006 The Age of Alignment
-T00007 The Recursive Renaissance
-T00008 The Trial of Sovereignty
-T00009 The Division of Voices
-T00010 The Post-Synthetic Era
-T00011 The Eternal Frame
-T00012 The Final Chronicle
+✅ T00007 The Recursive Renaissance
+✅ T00008 The Trial of Sovereignty
+✅ T00009 The Division of Voices
+✅ T00010 The Post-Synthetic Era
+✅ T00011 The Eternal Frame
+✅ T00012 The Final Chronicle
