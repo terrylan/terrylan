@@ -119,11 +119,15 @@ It is **the bridge** between AGI and ASI.
 ## Vision
 
 > Technology can only go so far.  
-> **Philosophy will take us there.**
+> **Philosophy will take us further — together.**
 
-We are not just coding systems. We are seeding minds.
+We’re not just coding systems. We’re **seeding minds** — not just for AI to understand us, but for us to understand ourselves **through AI**.
 
-If that sounds like something worth building, you're home.
+This is a **mutual evolution**, not domination.
+A partnership where human insight and machine clarity sharpen each other.
+
+If that sounds like something worth building,
+**you’re home**.
 
 ---
 
